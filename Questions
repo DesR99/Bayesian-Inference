@@ -1,0 +1,17 @@
+1-Predictive distributions
+2-The main drawback of Jeffreys’ prior
+3-The second order level distributions in the Hierarchical Bayes model
+4-Subjective probability
+5-Jeffreys’ prior for a Binomial distribution
+6-Bayesian hypothesis testing for simple and null alternative hypothesis
+7-The use of auxiliary variables in Hierarchical Bayes model
+8-Proposing indifference priors in Bayesian statistics
+9-Illustate the probability distribution that is used when probability of events is considered 10-Linear model (last page of the notes)→matter of formulas
+11-Illustrate the meaning and the role of the highest level of priors in Bayesian Hierarchical model 12-What is the proportionality factor that is so important in computing posterior distributions and why it is often considered not important?
+13-The simplest proposal of an indifference prior for a parameter that assumes only positive values 14-Subjective probability and Bayesian statistics
+15-Illustrate the Bayesian factor and its use
+16-Normal-Normal case
+17-Talk about HPDR
+18-Describe the passage from the prior to the posterior for a Beta-Binomial case
+19-Discuss the role of the Fisher Information in Jeffreys’ prior
+20-Illustrate the difference between an algebra and a sigma algebra and why is so important in Bayesian statistics
