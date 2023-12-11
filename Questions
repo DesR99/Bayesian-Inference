@@ -6,9 +6,12 @@
 6-Bayesian hypothesis testing for simple and null alternative hypothesis
 7-The use of auxiliary variables in Hierarchical Bayes model
 8-Proposing indifference priors in Bayesian statistics
-9-Illustate the probability distribution that is used when probability of events is considered 10-Linear model (last page of the notes)→matter of formulas
-11-Illustrate the meaning and the role of the highest level of priors in Bayesian Hierarchical model 12-What is the proportionality factor that is so important in computing posterior distributions and why it is often considered not important?
-13-The simplest proposal of an indifference prior for a parameter that assumes only positive values 14-Subjective probability and Bayesian statistics
+9-Illustate the probability distribution that is used when probability of events is considered 
+10-Linear model (last page of the notes)→matter of formulas
+11-Illustrate the meaning and the role of the highest level of priors in Bayesian Hierarchical model 
+12-What is the proportionality factor that is so important in computing posterior distributions and why it is often considered not important?
+13-The simplest proposal of an indifference prior for a parameter that assumes only positive values 
+14-Subjective probability and Bayesian statistics
 15-Illustrate the Bayesian factor and its use
 16-Normal-Normal case
 17-Talk about HPDR
